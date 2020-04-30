@@ -1,0 +1,25 @@
+.Card {
+    border: solid 2px white;
+    height: 400px;
+    width: 300px;
+    margin: 40px auto;
+    // display: flex;
+    // flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+.weatherData {
+    border: solid 2px white;
+    margin: auto;
+    width: 250px;
+    text-align: center;
+}
+
+.photo {
+    border: solid 2px white;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+}
