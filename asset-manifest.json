@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-checker/static/css/main.7f98f016.chunk.css",
+    "main.js": "/weather-checker/static/js/main.faf0e8a3.chunk.js",
+    "main.js.map": "/weather-checker/static/js/main.faf0e8a3.chunk.js.map",
+    "runtime-main.js": "/weather-checker/static/js/runtime-main.7d381d44.js",
+    "runtime-main.js.map": "/weather-checker/static/js/runtime-main.7d381d44.js.map",
+    "static/js/2.bad804fc.chunk.js": "/weather-checker/static/js/2.bad804fc.chunk.js",
+    "static/js/2.bad804fc.chunk.js.map": "/weather-checker/static/js/2.bad804fc.chunk.js.map",
+    "index.html": "/weather-checker/index.html",
+    "precache-manifest.13a5340b4ec389ac0287442e8d54feb4.js": "/weather-checker/precache-manifest.13a5340b4ec389ac0287442e8d54feb4.js",
+    "service-worker.js": "/weather-checker/service-worker.js",
+    "static/css/main.7f98f016.chunk.css.map": "/weather-checker/static/css/main.7f98f016.chunk.css.map",
+    "static/js/2.bad804fc.chunk.js.LICENSE.txt": "/weather-checker/static/js/2.bad804fc.chunk.js.LICENSE.txt",
+    "static/media/london.png": "/weather-checker/static/media/london.5eedb058.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d381d44.js",
+    "static/js/2.bad804fc.chunk.js",
+    "static/css/main.7f98f016.chunk.css",
+    "static/js/main.faf0e8a3.chunk.js"
+  ]
+}
