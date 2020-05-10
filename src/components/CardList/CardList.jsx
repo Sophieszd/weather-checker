@@ -5,12 +5,12 @@ import Card from "./Card";
 export default class CardList extends Component {
 state = {
     cityName: [
-        { city_id: 2643744 },
-        { city_id: 2988507 },
-        { city_id: 5128581 },
-        { city_id: 2147714 },
-        { city_id: 2950159 },
-        { city_id: 3117735 }
+        { city_id: 2643744, image: require("../../static/images/london.png") },
+        { city_id: 2988507, image: require("../../static/images/london.png") },
+        { city_id: 5128581, image: require("../../static/images/london.png") },
+        { city_id: 2147714, image: require("../../static/images/london.png") },
+        { city_id: 2950159, image: require("../../static/images/london.png") },
+        { city_id: 3117735, image: require("../../static/images/london.png") }
     ],
     filteredCities: []
 }

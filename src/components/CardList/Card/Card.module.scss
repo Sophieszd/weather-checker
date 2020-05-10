@@ -1,5 +1,8 @@
 .Card {
     border: solid 2px white;
+    background-color: white;
+    border-radius: 25px;
+    // color: black;
     height: 400px;
     width: 300px;
     margin: 40px auto;
@@ -7,14 +10,24 @@
     // flex-direction: column;
 }
 
-h1 {
+h2 {
     text-align: center;
+    color: black;
+    background-color: white;
+    font-size: 28px;
 }
 .weatherData {
     border: solid 2px white;
+    background-color: white;
     margin: auto;
     width: 250px;
     text-align: center;
+
+    p {
+        color: black;
+        background-color: white;
+    }
+    
 }
 
 .photo {
