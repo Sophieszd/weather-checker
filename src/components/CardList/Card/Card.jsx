@@ -8,7 +8,7 @@ export default class Card extends Component {
             <section className={styles.CardBox}>
                 <div className={styles.Card}>
                     <h2>{this.props.city.name}</h2>
-                    <div>{this.props.city.image}</div>
+                    {/* <div>{this.props.city.image}</div> */}
                     {/* <img src={require("../../../static/images/london.png")}/> */}
                     <article className={styles.weatherData}>
                     {/* <img className={styles.photo} src="" alt="City"/> */}
