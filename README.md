@@ -1,5 +1,9 @@
 # Weather Checker
 
+React app, using the Open Weather API to display current weather in major cities.
+
+Link to site: https://sophieszd.github.io/weather-checker/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
