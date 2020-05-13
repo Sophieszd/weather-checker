@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/weather-checker/static/css/main.5e5b9001.chunk.css",
+    "main.js": "/weather-checker/static/js/main.9087b8e8.chunk.js",
+    "main.js.map": "/weather-checker/static/js/main.9087b8e8.chunk.js.map",
+    "runtime-main.js": "/weather-checker/static/js/runtime-main.7d381d44.js",
+    "runtime-main.js.map": "/weather-checker/static/js/runtime-main.7d381d44.js.map",
+    "static/js/2.e1fdbf13.chunk.js": "/weather-checker/static/js/2.e1fdbf13.chunk.js",
+    "static/js/2.e1fdbf13.chunk.js.map": "/weather-checker/static/js/2.e1fdbf13.chunk.js.map",
+    "index.html": "/weather-checker/index.html",
+    "precache-manifest.9ddc543cbbab9a97eef84fa2610f2819.js": "/weather-checker/precache-manifest.9ddc543cbbab9a97eef84fa2610f2819.js",
+    "service-worker.js": "/weather-checker/service-worker.js",
+    "static/css/main.5e5b9001.chunk.css.map": "/weather-checker/static/css/main.5e5b9001.chunk.css.map",
+    "static/js/2.e1fdbf13.chunk.js.LICENSE.txt": "/weather-checker/static/js/2.e1fdbf13.chunk.js.LICENSE.txt",
+    "static/media/berlin.png": "/weather-checker/static/media/berlin.b3b46f3d.png",
+    "static/media/london.png": "/weather-checker/static/media/london.ebf250b7.png",
+    "static/media/madrid.png": "/weather-checker/static/media/madrid.2b5e3c69.png",
+    "static/media/newyork.png": "/weather-checker/static/media/newyork.cb91bd25.png",
+    "static/media/paris.png": "/weather-checker/static/media/paris.4d5ea4da.png",
+    "static/media/sydney.png": "/weather-checker/static/media/sydney.176d34b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d381d44.js",
+    "static/js/2.e1fdbf13.chunk.js",
+    "static/css/main.5e5b9001.chunk.css",
+    "static/js/main.9087b8e8.chunk.js"
+  ]
+}
