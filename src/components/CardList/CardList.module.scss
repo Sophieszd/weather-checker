@@ -1,0 +1,10 @@
+.CardList {
+    margin-top: 20px;
+    justify-content: space-evenly; 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    // grid-template-rows: 1fr 1fr;
+    // grid-template-columns: 1fr 1fr 1fr;
+    // flex-wrap: wrap;
+}
