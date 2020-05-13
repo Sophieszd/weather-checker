@@ -5,30 +5,32 @@ import SimpleImageSlider from "react-simple-image-slider";
 
 export default class PhotoSlide extends Component {
     render() {
-        const images = [
-            { url: "../../static/images/london.png" },
-            { url: "../../static/images/paris.png" },
-            { url: "images/3.jpg" },
-            { url: "images/4.jpg" },
-            { url: "images/5.jpg" },
-            { url: "images/6.jpg" },
-            { url: "images/7.jpg" },
-        ];
+        // const images = [
+        //     { url: require("../../static/images/london.png") },
+        //     { url: require("../../static/images/paris.png") },
+        //     { url: require("../../static/images/newyork.png") },
+        //     { url: require("../../static/images/sydney.png") },
+        //     { url: require("../../static/images/berlin.png") },
+        //     { url: require("../../static/images/madrid.png") },
+        // ];
         return (
-            <section>
-                {/* <div className={styles.photoBox}> */}
-                    {/* <div>
-                        <img className={styles.photo} src={require("../../static/images/london.png")}/>
-                    </div>
-                    <div>
-                        <img className={styles.photo} src={require("../../static/images/paris.png")}/>
-                    </div> */}
-                {/* </div> */}
-                <SimpleImageSlider className={styles.photoBox}
+            <section className={styles.photoBox}>
+
+                <img className={styles.photo} src={require("../../static/images/london.png")} />
+                <img className={styles.photo} src={require("../../static/images/paris.png")} />
+                <img className={styles.photo} src={require("../../static/images/newyork.png")} />
+                <img className={styles.photo} src={require("../../static/images/sydney.png")} />
+                <img className={styles.photo} src={require("../../static/images/berlin.png")} />
+                <img className={styles.photo} src={require("../../static/images/madrid.png")} />
+    
+                {/* <SimpleImageSlider 
                     width={300}
                     height={300}
                     images={images}
-                />
+                    
+                    navStyle={2}
+                    
+                /> */}
 
              
             </section>

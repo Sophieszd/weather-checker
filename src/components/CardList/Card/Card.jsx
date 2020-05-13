@@ -12,7 +12,7 @@ export default class Card extends Component {
                     {/* <img src={require("../../../static/images/london.png")}/> */}
                     <article className={styles.weatherData}>
                     {/* <img className={styles.photo} src="" alt="City"/> */}
-                    <p>Temperature: {this.props.city.main.temp}&deg;C</p>
+                    <p>Temp: {this.props.city.main.temp}&deg;C</p>
                     <p>{this.props.city.main.description}</p>
                     <p>Humidity: {this.props.city.main.humidity}%</p>
                     <p>Min Temp: {this.props.city.main.temp_min}&deg;C</p>

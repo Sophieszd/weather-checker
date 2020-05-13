@@ -1,8 +1,10 @@
 .CardList {
-    margin-top: 60px;
+    margin-top: 20px;
     justify-content: space-evenly; 
-    display: grid;
-    grid-template-rows: 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    // grid-template-rows: 1fr 1fr;
+    // grid-template-columns: 1fr 1fr 1fr;
     // flex-wrap: wrap;
 }
